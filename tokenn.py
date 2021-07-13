@@ -1,0 +1,2 @@
+token = 'YOUR DISCORD BOT TOKEN'
+riot_api = 'YOUR RIOT API KEY HERE'
