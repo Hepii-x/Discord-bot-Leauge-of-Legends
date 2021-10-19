@@ -27,9 +27,9 @@ class DivisionGenerator():
         bg_text.text((654,238), 'SoloQ', font=font_soloq, stroke_width=2, stroke_fill='black', anchor='mm')
         bg_text.text((251,358), 'Flex', font=font_flex, stroke_width=2, stroke_fill='black', anchor='mm')
         bg_text.text((661,576), f"{div_tier_sq} {div_rank_sq} {div_lp_sq} LP", font=font_soloq, stroke_width=2, stroke_fill='black',anchor='mm') # soloq
-        bg_text.text((661,635), f"{winratio_sq}% WR", font=font_soloq, stroke_width=2, stroke_fill='black', anchor='mm') # soloq wr
+        bg_text.text((661,635), f"{winratio_flex}% WR", font=font_soloq, stroke_width=2, stroke_fill='black', anchor='mm') # soloq wr
         bg_text.text((255,596), f"{div_tier_flex} {div_rank_flex} {div_lp_flex} LP", font=font_flex, stroke_width=2, stroke_fill='black', anchor='mm') # flex
-        bg_text.text((255,632), f'{winratio_flex}% WR', font=font_flex, stroke_width=2, stroke_fill='black', anchor='mm') # flex wr
+        bg_text.text((255,632), f'{winratio_sq}% WR', font=font_flex, stroke_width=2, stroke_fill='black', anchor='mm') # flex wr
         bg_text.text((240,63), f'{user_name}', font=font_name, stroke_width=2, stroke_fill='black', anchor='lm') # summoner name
 
 
