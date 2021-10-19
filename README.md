@@ -15,7 +15,6 @@ I've made quick accces to user division in game League of Legends. Everyone is u
 
 ## Contact
 Discord: Hepii#2137 <br />
-Mail: maciej.szustakowski71@gmail.com
 
 ## Technologies
 * Python
