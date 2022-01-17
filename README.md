@@ -14,7 +14,7 @@ I've made quick accces to user division in game League of Legends. Everyone is u
 ![4](./images/ready.png)
 
 ## Contact
-Discord: Hepii#2137 <br />
+Discord: Hepii#9767 <br />
 
 ## Technologies
 * Python
